@@ -136,9 +136,7 @@
     "witsec-mailform-autorespond-subjectprefix": "Re:",
     "witsec-mailform-autorespond-subject": "",
     "witsec-mailform-autorespond-template": "Hi {name},\n\nThank you for your message. We'll get back to you as soon as we can.\nHere's the information you sent us:\n\n{formdata}\n\n---\nHave a nice day.",
-    "witsec-mailform-disable-button": true,
-    "publishType": "local",
-    "publishPath": "file:///Users/dave/Documents/GitHub/Sites/For%20Review/sunshinecoastrealestateagent"
+    "witsec-mailform-disable-button": true
   },
   "pages": {
     "index.html": {
